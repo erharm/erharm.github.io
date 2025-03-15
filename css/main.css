@@ -1,6 +1,7 @@
 html,body {
      font-family: Charter, "Linux Libertine", Georgia, serif;
      font-style: normal;
+     font-size: large;
 }
 h1, h2, h3 { color: var(--text-main); }
 ul { list-style: none; padding:0px; } ul.nav li { text-transform: uppercase; display: inline-block }
